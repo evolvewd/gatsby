@@ -12,7 +12,7 @@ export const heroData = {
   title: 'evolveWD ',
   name: 'web & development',
   subtitle: 'hai un progetto in mente?',
-  cta: 'Scopri di più',
+  cta: 'Scopri',
 };
 
 // ABOUT DATA
