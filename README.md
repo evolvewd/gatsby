@@ -2,6 +2,8 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
+http://www.deanbodenham.com/learn/using-git-to-sync-different-computers.html
+
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
   <br>
